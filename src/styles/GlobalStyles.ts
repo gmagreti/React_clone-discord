@@ -11,6 +11,10 @@ export default createGlobalStyle`
     height: 100%;
   }
 
+  *, button, input {
+    font-family: 'Roboto', sans-serif;
+  }
+
   button {
     border: 0;  
     outline: none;
